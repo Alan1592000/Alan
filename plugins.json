@@ -1,0 +1,10 @@
+{
+  "desc": "Alan1592000 的 MusicFree 自定义插件源，当前提供极空间 FLAC 音源插件。",
+  "plugins": [
+    {
+      "name": "极空间 FLAC 音源",
+      "url": "https://raw.githubusercontent.com/Alan1592000/Alan/main/plugin.js",
+      "version": "1.0.0"
+    }
+  ]
+}
